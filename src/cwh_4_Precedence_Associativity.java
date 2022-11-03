@@ -1,4 +1,4 @@
-public class cwh_4_PreceAsso {
+public class cwh_4_Precedence_Associativity {
     public static void main(String[] args) {
         // Precedence and Associativity of Operators
         int k = 23 + 12 / 2 - 1 * 3;// Here *,/ has higher Precedence than +,-

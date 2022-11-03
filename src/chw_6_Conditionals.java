@@ -18,7 +18,7 @@ public class chw_6_Conditionals {
             System.out.println("Try to improve");
         }
 
-        // All possible condn get executed
+        // All possible condition get executed
         // if (marks > 95) {
         // System.out.println("Brilliant Student");
         // }
@@ -48,7 +48,7 @@ public class chw_6_Conditionals {
         } else {
             System.out.println("No. b/w 0 and 1");
         }
-        //This is progr
+        // This is program
 
         // Switch Case
         String var = "Ansh";
@@ -94,7 +94,7 @@ public class chw_6_Conditionals {
         // }
 
         // Modified Switch Case
-        // Not for vs code
+        // Do Not work for vs code
         // switch (var) {
         // case "Vikalp" -> {
         // System.out.println("var= Vikalp");

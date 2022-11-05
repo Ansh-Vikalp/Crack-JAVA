@@ -4,6 +4,7 @@ public class cwh_12_Recursion {
 
     static int factorial(int n) {
         // Recursive approach
+        // we must specify a valid base condition to stop the call.
         if (n <= 1) {
             return 1;
         } else {
@@ -40,6 +41,15 @@ public class cwh_12_Recursion {
 
     public static void main(String[] args) {
         // Recursion in JAVA
+
+        /*
+         * How are recursive functions stored in memory?
+         * 
+         * Recursion uses more memory, because the recursive function adds to the stack
+         * with each recursive call, and keeps the values there until the call is
+         * finished. The recursive function uses LIFO (LAST IN FIRST OUT) Structure just
+         * like the stack data structure.
+         */
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a no. ");
         int num = sc.nextInt();
@@ -51,6 +61,31 @@ public class cwh_12_Recursion {
         int t = sc.nextInt();
         System.out.println("The " + t + " term in fibonacci series is: " + fibonacci(t));
         sc.close();
+
+        /*
+         * Why Stack Overflow error occurs in recursion? 
+         * If the base case is not reached or not defined, then the stack overflow
+         * problem may arise. Let us take an example to understand this.
+         * 
+         * int fact(int n)
+         * {
+         * // wrong base case (it may cause
+         * // stack overflow).
+         * if (n == 100){
+         * return 1;
+         * }
+         * 
+         * else{
+         * return n*fact(n-1);
+         * }
+         * 
+         * }
+         * 
+         * If fact(10) is called, it will call fact(9), fact(8), fact(7), and so on but
+         * the number will never reach 100. So, the base case is not reached. If the
+         * memory is exhausted by these functions on the stack, it will cause a stack
+         * overflow error. 
+         */
 
     }
 }

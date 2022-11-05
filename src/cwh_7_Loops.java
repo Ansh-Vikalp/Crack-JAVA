@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class chw_7_Loops {
+public class cwh_7_Loops {
     public static void main(String[] args) {
         // Loops in Java
 

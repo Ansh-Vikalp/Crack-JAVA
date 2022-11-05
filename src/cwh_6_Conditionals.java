@@ -1,4 +1,4 @@
-public class chw_6_Conditionals {
+public class cwh_6_Conditionals {
     public static void main(String[] args) {
 
         int marks = 98;

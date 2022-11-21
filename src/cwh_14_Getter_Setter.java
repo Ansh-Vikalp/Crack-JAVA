@@ -58,7 +58,7 @@ class circle {
 
 }
 
-public class cwh14_Getter_Setter {
+public class cwh_14_Getter_Setter {
     public static void main(String[] args) {
 
         Employee emp1 = new Employee();

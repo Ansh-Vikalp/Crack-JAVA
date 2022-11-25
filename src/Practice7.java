@@ -62,6 +62,24 @@ class Rectangle {
 }
 
 public class Practice7 {
+    /*
+     * Q1) Create a class Employee with the following properties and methods:
+     * =>Salary (property) (int)
+     * =>getSalary (method returning int)
+     * =>name (property) (String)
+     * =>getName (method returning String)
+     * =>setName (method changing name)
+     * Q2) Create a class cellphone with methods to print “ringing…”, “vibrating…”,
+     * etc.
+     * Q3) Create a class Square with a method to initialize its side, calculating
+     * area,
+     * perimeter etc.
+     * Q4) Create a class Rectangle & problem 3.
+     * Q5) Create a class TommyVecetti for Rockstar Games capable of hitting (print
+     * hitting…), running, firing, etc.
+     * Q6) Repeat problem 4 for a circle.
+     */
+
     public static void main(String[] args) {
         // see class already created in cwh_14_getter_setter
         Employee emp2 = new Employee();

@@ -76,6 +76,38 @@ public class Practice6 {
     }
 
     public static void main(String[] args) {
+
+        /*
+         * Q1) Write a Java method to print the multiplication table of a number n.
+         * Write a program using functions to print the following pattern:
+         * *
+         * **
+         * ***
+         * ****
+         * 
+         * 
+         * 
+         * 
+         * Q2) Write a recursive function to calculate the sum of first n natural
+         * numbers.
+         * Write a function to print the following pattern:
+         * ****
+         * ***
+         * **
+         * *
+         * 
+         * 
+         * 
+         * 
+         * Q3) Write a function to print the nth term of the Fibonacci series using
+         * recursion.
+         * Q4) Write a function to find the average of a set of numbers passed as
+         * arguments.
+         * Q5) Repeat problem 4 using Recursion.
+         * Q6) Repeat problem 2 using Recursion.
+         * Q7) Write a function to convert Celsius temperature into Fahrenheit.
+         * Q8) Repeat problem 3 using an iterative approach.
+         */
         System.out.print("Enter a no= ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

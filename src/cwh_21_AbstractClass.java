@@ -78,7 +78,7 @@ class Triangle extends Shape {
 
 }
 
-public class cwh_21_Abstraction {
+public class cwh_21_AbstractClass {
     public static void main(String[] args) {
         // Shape is a abstract class
         // Shape s= new Shape();//❌ NOT Allowed- Cannot instantiate the type Shape

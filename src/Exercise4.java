@@ -32,7 +32,7 @@ class Library {
     private void delete(String del) {
         for (int i = 0; i < books.length; i++) {
             if (this.books[i].equals(del)) {
-                this.books[i] = "WRong";
+                this.books[i] = null;
                 break;
             }
         }

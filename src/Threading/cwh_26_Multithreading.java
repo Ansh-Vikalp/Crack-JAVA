@@ -6,7 +6,7 @@ class MyThread extends Thread {
 
         int i = 3;
         while (i != 0) {
-            System.out.println("MyThread Serializability");
+            System.out.println("MyThread Serializability " + i);
             i--;
         }
         System.out.println();
@@ -16,8 +16,8 @@ class MyThread extends Thread {
     public void run() {
         int j = 100;
         while (j-- > 0) {
-            System.out.println("Cooking from MyThread");
-            System.out.println("I am happy");
+            System.out.println("Cooking from MyThread " + j);
+            System.out.println("I am happy " + j);
         }
 
     }
@@ -30,7 +30,7 @@ class MyThread2 extends Thread {
 
         int i = 3;
         while (i != 0) {
-            System.out.println("MyThread2 Serializability");
+            System.out.println("MyThread2 Serializability " + i);
             i--;
         }
         System.out.println();
@@ -42,8 +42,8 @@ class MyThread2 extends Thread {
     public void run() {
         int j = 100;
         while (j-- > 0) {
-            System.out.println("Whatsapp Chatting from MyThread2");
-            System.out.println("I am sad");
+            System.out.println("Whatsapp Chatting from MyThread2 " + j);
+            System.out.println("I am sad " + j);
         }
 
     }

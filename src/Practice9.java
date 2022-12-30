@@ -1,4 +1,3 @@
-import java.lang.annotation.Inherited;
 
 class Circle3 {
     int radius;

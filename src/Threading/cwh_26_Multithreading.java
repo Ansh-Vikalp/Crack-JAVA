@@ -2,6 +2,16 @@ package Threading;
 
 // Creating a Thread🧵 by extending Thread class
 class MyThread extends Thread {
+    /**
+     * This is a simple default Comment
+     * * This is HIGHLITED Comment
+     * !This is an alert
+     * ? This is a Queries
+     * TODO:We have to do something
+     * 
+     * @param myParam The parameter for this meathod
+     * 
+     */
 
     public void show() {
 

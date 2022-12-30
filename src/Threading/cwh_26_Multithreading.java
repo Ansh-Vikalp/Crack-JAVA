@@ -1,5 +1,6 @@
 package Threading;
 
+// Creating a Thread🧵 by extending Thread class
 class MyThread extends Thread {
 
     public void show() {

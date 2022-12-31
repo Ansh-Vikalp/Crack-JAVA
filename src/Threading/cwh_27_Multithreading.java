@@ -32,8 +32,8 @@ public class cwh_27_Multithreading {
         // we can't directely call start() of Runnable interface
         // * For every Bullet we need it's Gun.🔫
         /**
-         * *MyThreadRunnable t1= new MyThreadRunnable();
-         * *MyThreadRunnable2 t2= new MyThreadRunnable2();
+         * * MyThreadRunnable t1= new MyThreadRunnable();
+         * * MyThreadRunnable2 t2= new MyThreadRunnable2();
          * !t1.start();//❌The method start() is undefined for the type MyThreadRunnable
          * !t2.start();
          */

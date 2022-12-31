@@ -52,3 +52,6 @@ class Sphere extends Circle {
         System.out.println("Volume= " + (float) (4 / 3 * Math.PI * Math.pow(radius, 3)));
     }
 }
+
+public class SolidFigures {
+}

@@ -37,12 +37,14 @@ public class cwh_28_Multithreading {
         System.out.println("Inside Main Thread");
         System.out.println();
         // * Thread1
-        MyThreadNam t1 = new MyThreadNam("Ansh");// TODO: Use of Thread(String name) Constructor
+        // TODO: Use of Thread(String name) Constructor
+        MyThreadNam t1 = new MyThreadNam("Ansh");
         System.out.println("Thread name is: " + t1.getName());
         System.out.println("Thread id is: " + t1.getId());
         t1.start();
         // * Thread2
-        MyThreadNam2 t2 = new MyThreadNam2("Vikalp");// TODO: Use of Thread(String name) Constructor
+        // TODO: Use of Thread(String name) Constructor
+        MyThreadNam2 t2 = new MyThreadNam2("Vikalp");
         System.out.println("Thread name is: " + t2.getName());
         System.out.println("Thread id is: " + t2.getId());
         t2.start();

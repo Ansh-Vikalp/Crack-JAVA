@@ -7,7 +7,7 @@ public class cwh_2_ConversionDataTypes {
         short s = 87;
         int i = 2, ii;
         float f = 56.66f, ff;
-        double d = 66.77, dd;
+        double d = 66.775667767765675675675, dd;
         long l = 4000000000000L, ll;
         char c = 'A';
         // no ramdom
@@ -42,10 +42,13 @@ public class cwh_2_ConversionDataTypes {
         f = (float) d;
         l = (long) d;
 
-        c = 66;// allowed
+        c = 66;// allowed char_size < Int_size here auto expilcit conversion done
         c += 1;
+        int o = 'D';// allowed
 
         System.out.println(c);
+        System.out.println(o);
+        System.out.println((int) c);
 
     }
 }

@@ -1,0 +1,154 @@
+<mxfile host="65bd71144e">
+    <diagram id="Yx-L5y3MnmfJiYLjyHTG" name="Page-1">
+        <mxGraphModel dx="1191" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="2" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="280" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fillStyle=dots;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="3" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="3" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Unit Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fillStyle=dots;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Integration Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fillStyle=dots;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="6" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;font color=&quot;#ffffff&quot;&gt;Testing of single small units of code such as a method or a class is called unit testing.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="7" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font color=&quot;#ffffff&quot;&gt;Testing of whole application is called as Integration Testing.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="12" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Manual testing&lt;br&gt;(Time Consuming)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#d80073;strokeColor=#A50040;fillStyle=zigzag-line;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFFFFF;" parent="1" source="13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="Automated Testing&lt;br&gt;(Time efficient)" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#d80073;strokeColor=#A50040;fillStyle=zigzag-line;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="280" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;h1&gt;&lt;font color=&quot;#6af096&quot;&gt;Unit&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: justify;&quot;&gt;&lt;font color=&quot;#6af096&quot;&gt;Unit testing is performed using&lt;span style=&quot;font-weight: bolder;&quot;&gt;&amp;nbsp;unit test cases&lt;/span&gt;.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: justify;&quot;&gt;&lt;font color=&quot;#6af096&quot;&gt;A unit test case is a part of code, which ensures that another part of code (method) works as expected.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: justify;&quot;&gt;&lt;font color=&quot;#6af096&quot;&gt;A unit test case is characterized by a known input and an expected output, which is worked out before the test is executed.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: justify;&quot;&gt;&lt;font color=&quot;#6af096&quot;&gt;There must be at least two unit test cases for each requirement − one positive test and one negative test. If a requirement has sub-requirements, each sub-requirement must have at least two test cases as positive and negative.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-family: Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: justify;&quot;&gt;&lt;font color=&quot;#6af096&quot;&gt;To achieve the desired results quickly, a test framework is required. There are several frameworks available for automating unit tests.&amp;nbsp;&lt;span style=&quot;font-weight: bolder;&quot;&gt;JUnit&lt;/span&gt;&amp;nbsp;and&amp;nbsp;TestNG&amp;nbsp;are among the popular ones for Java.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="260" width="360" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="18" target="23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Needs to define Unit Test Cases with-&lt;br&gt;@Input&lt;br&gt;@Output&lt;br&gt;+ve, -ve" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;fillStyle=hatch;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="380" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Yes" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFFFFF;" parent="1" source="22" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="170" y="680" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="No" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#FFFFFF;" parent="1" source="22" target="29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="310" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="is passed?&lt;br&gt;BUG" style="rhombus;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#e51400;strokeColor=#B20000;shadow=0;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="125" y="570" width="90" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="23" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;rounded=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="490" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-50" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#FFFFFF;" parent="1" source="27" target="ujWewG3qQPY26z0b0OTl-49" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Publish Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fillStyle=zigzag;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="690" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;curved=1;" parent="1" source="29" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="420" y="660"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Start Debugging&lt;br&gt;(Remove bugs &amp;amp; ERROR)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;glass=0;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Bugs are logical Errors" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=2;hachureGap=8;fillColor=#990000;fillStyle=dots;fontColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="600" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Manual" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="570" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontColor=#FFFFFF;" parent="1" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="410" y="612" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="Tools" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="465" y="620" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-40" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png;rounded=0;shadow=0;glass=0;fillStyle=zigzag;fontColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="10" width="50" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-44" style="edgeStyle=none;curved=1;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="1" source="ujWewG3qQPY26z0b0OTl-41" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="720" y="90"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-41" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;shadow=0;glass=0;fillStyle=zigzag;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="350" width="60" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-47" value="Next, you need to set breakpoints. A breakpoint specifies where the execution should stop. Once stopped, you can identify the different variables and their values." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillStyle=zigzag;fontColor=#ffffff;fillColor=#a20025;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="685" width="380" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-49" value="Maintainence" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillStyle=zigzag;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="840" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;rounded=0;glass=0;fillStyle=zigzag;fontColor=#FFFFFF;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="10" width="140" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.android.navigation_bar_1_landscape;fillColor=#1A1A1A;strokeColor=#999999;rounded=0;glass=0;fillStyle=zigzag;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="673" y="260" width="137" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-63" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;rounded=0;glass=0;fillStyle=zigzag;fontColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="679" y="40" width="130" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="ujWewG3qQPY26z0b0OTl-65" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.columnChart;strokeColor=none;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;rounded=0;glass=0;fillStyle=zigzag;fontColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="677" y="150" width="123" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

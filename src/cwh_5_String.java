@@ -98,6 +98,30 @@ public class cwh_5_String {
 
         System.out.println(gg.equals("anpnppnp"));
         System.out.println(gg.equalsIgnoreCase("anpnppnp"));
+        System.out.println();
 
+        System.out.println("------------------------compareTo() & compareToIgnoreCase()-----------------");
+
+        // original string: Anpnppnp
+        System.out.println(gg.compareTo("Anpnrpnp"));// compares lexicographically
+        /*
+         * A-A=0
+         * n-n=0
+         * p-p=0
+         * n-n=0
+         * p-r= 112-114=-2 return occurs
+         */
+        String demo1 = "";
+        String demo2 = "Hello";
+        String demo3 = "";
+        String demo4 = "He";
+        System.out.println(demo1.compareTo(demo2));// null- demo2.length()= -5 in this case
+        System.out.println(demo2.compareTo(demo3));// demo2.length()- null= +5 in this case
+        System.out.println(demo2.compareTo(demo4));// demo2.length()- demo4.length()= 5-2= +3 in this case
+        System.out.println(gg.compareToIgnoreCase("ANPNPPNP")); // return 0 after ignoring the case senstivity
+        System.out.println();
+
+        System.out.println("-----------------------------------concat()-----------------------------------");
+        System.out.println(demo2.concat(" World"));
     }
 }

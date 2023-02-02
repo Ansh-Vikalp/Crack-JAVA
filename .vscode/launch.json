@@ -1,0 +1,497 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch llop",
+            "request": "launch",
+            "mainClass": "llop",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_40_Debugging",
+            "request": "launch",
+            "mainClass": "cwh_40_Debugging",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_25_AccessModifiers",
+            "request": "launch",
+            "mainClass": "Cwh_25_AccessModifiers.Modifiers.cwh_25_AccessModifiers",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_25_CHILD",
+            "request": "launch",
+            "mainClass": "Cwh_25_AccessModifiers.Modifiers2.cwh_25_CHILD",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch World",
+            "request": "launch",
+            "mainClass": "Cwh_25_AccessModifiers.Modifiers3.World",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1",
+            "request": "launch",
+            "mainClass": "Exercise1",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise2",
+            "request": "launch",
+            "mainClass": "Exercise2",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise3",
+            "request": "launch",
+            "mainClass": "Exercise3",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise4",
+            "request": "launch",
+            "mainClass": "Exercise4",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arjun",
+            "request": "launch",
+            "mainClass": "Mahabharat.Arjun",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Krishna",
+            "request": "launch",
+            "mainClass": "Mahabharat.Krishna",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice1",
+            "request": "launch",
+            "mainClass": "Practice1",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice10",
+            "request": "launch",
+            "mainClass": "Practice10",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice11",
+            "request": "launch",
+            "mainClass": "Practice11",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice12",
+            "request": "launch",
+            "mainClass": "Practice12",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice2",
+            "request": "launch",
+            "mainClass": "Practice2",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice3",
+            "request": "launch",
+            "mainClass": "Practice3",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice4",
+            "request": "launch",
+            "mainClass": "Practice4",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice5",
+            "request": "launch",
+            "mainClass": "Practice5",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice6",
+            "request": "launch",
+            "mainClass": "Practice6",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice7",
+            "request": "launch",
+            "mainClass": "Practice7",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice8",
+            "request": "launch",
+            "mainClass": "Practice8",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice9",
+            "request": "launch",
+            "mainClass": "Practice9",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lakshman",
+            "request": "launch",
+            "mainClass": "Ramayan.Lakshman",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ravan",
+            "request": "launch",
+            "mainClass": "Ramayan.Lanka.Ravan",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sita",
+            "request": "launch",
+            "mainClass": "Ramayan.Sita",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hanuman",
+            "request": "launch",
+            "mainClass": "Ramayan.VanarSena.Hanuman",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sugriva",
+            "request": "launch",
+            "mainClass": "Ramayan.VanarSena.Sugriva",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_26_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_26_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_27_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_27_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_28_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_28_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_29_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_29_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_30_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_30_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_31_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_31_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_32_Mutithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_32_Mutithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_33_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_33_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_34_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_34_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_35_Multithreading",
+            "request": "launch",
+            "mainClass": "Threading.cwh_35_Multithreading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise5",
+            "request": "launch",
+            "mainClass": "com.Exercise5.Shape.Exercise5",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_10_MeathodOverloading",
+            "request": "launch",
+            "mainClass": "cwh_10_MeathodOverloading",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_10_Meathods",
+            "request": "launch",
+            "mainClass": "cwh_10_Meathods",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_11_VarArgs",
+            "request": "launch",
+            "mainClass": "cwh_11_VarArgs",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_12_Recursion",
+            "request": "launch",
+            "mainClass": "cwh_12_Recursion",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_13_OOPS",
+            "request": "launch",
+            "mainClass": "cwh_13_OOPS",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_14_Getter_Setter",
+            "request": "launch",
+            "mainClass": "cwh_14_Getter_Setter",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_15_Constructors",
+            "request": "launch",
+            "mainClass": "cwh_15_Constructors",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_16_Inheritance",
+            "request": "launch",
+            "mainClass": "cwh_16_Inheritance",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_17_ConstructorInheritance",
+            "request": "launch",
+            "mainClass": "cwh_17_ConstructorInheritance",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_18_thisSuper",
+            "request": "launch",
+            "mainClass": "cwh_18_thisSuper",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_18_thisSuper2",
+            "request": "launch",
+            "mainClass": "cwh_18_thisSuper2",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_19_MeathodOverriding",
+            "request": "launch",
+            "mainClass": "cwh_19_MeathodOverriding",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_1_DataTypes",
+            "request": "launch",
+            "mainClass": "cwh_1_DataTypes",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_20_DynamicMeathodDispatch",
+            "request": "launch",
+            "mainClass": "cwh_20_DynamicMeathodDispatch",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_21_AbstractClass",
+            "request": "launch",
+            "mainClass": "cwh_21_AbstractClass",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_22_InterfaceClass",
+            "request": "launch",
+            "mainClass": "cwh_22_InterfaceClass",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_22_InterfaceDemo",
+            "request": "launch",
+            "mainClass": "cwh_22_InterfaceDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_23_MultipleInheritance",
+            "request": "launch",
+            "mainClass": "cwh_23_MultipleInheritance",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_24_PackageRam",
+            "request": "launch",
+            "mainClass": "cwh_24_PackageRam",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_2_ConversionDataTypes",
+            "request": "launch",
+            "mainClass": "cwh_2_ConversionDataTypes",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_36_Errors_Exceptions",
+            "request": "launch",
+            "mainClass": "cwh_36_Errors_Exceptions",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_37_try_catch",
+            "request": "launch",
+            "mainClass": "cwh_37_try_catch",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_38_NestedTry",
+            "request": "launch",
+            "mainClass": "cwh_38_NestedTry",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_39_CmdArg",
+            "request": "launch",
+            "mainClass": "cwh_39_CmdArg",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_3_Operators",
+            "request": "launch",
+            "mainClass": "cwh_3_Operators",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_4_Precedence_Associativity",
+            "request": "launch",
+            "mainClass": "cwh_4_Precedence_Associativity",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_5_String",
+            "request": "launch",
+            "mainClass": "cwh_5_String",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_6_Conditionals",
+            "request": "launch",
+            "mainClass": "cwh_6_Conditionals",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_7_Loops",
+            "request": "launch",
+            "mainClass": "cwh_7_Loops",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_9_Arrays",
+            "request": "launch",
+            "mainClass": "cwh_9_Arrays",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        }
+    ]
+}

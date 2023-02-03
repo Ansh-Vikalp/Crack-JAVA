@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MyQuiz",
+            "request": "launch",
+            "mainClass": "MyQuiz",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch llop",
             "request": "launch",
             "mainClass": "llop",

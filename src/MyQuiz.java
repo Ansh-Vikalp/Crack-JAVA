@@ -200,8 +200,6 @@ public class MyQuiz extends Thread {
         System.out.print("\t\t\t\t\t\t\t\t\t\tTEST STARTS IN: ");
 
         try {
-            // new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().wait(3000L);
-            // System.out.print("0 min");
             for (int i = 8; i > 0; i--) {
                 System.out.printf("%d%s\b\b\b\b\b", i, " sec");
 
@@ -215,12 +213,79 @@ public class MyQuiz extends Thread {
 
     }
 
+    private void admin() {
+        System.out.println("Press N to exit");
+        Scanner scu = new Scanner(System.in);
+        for (int i = 0; i < 30; i++) {
+            System.out.print("Ques" + (i + 1) + " ");
+            String que = scu.nextLine();
+            if (que.equals("N")) {
+                break;
+            } else {
+
+                questions.add(i, que);
+            }
+
+            options.add(i, new ArrayList<>());
+            for (int j = 0; j < 4; j++) {
+                System.out.print("\t<" + (char) (65 + j) + "> ");
+                String op = scu.nextLine();
+                options.get(i).add(op);
+
+            }
+
+            System.out.print("Correct Option: ");
+            String co = scu.nextLine();
+            int val = -1;
+            switch (co.toUpperCase()) {
+                case "A":
+                    val = 0;
+                    break;
+                case "B":
+                    val = 1;
+                    break;
+                case "C":
+                    val = 2;
+                    break;
+                case "D":
+                    val = 3;
+                    break;
+                default:
+                    break;
+            }
+            correct.add(i, options.get(i).get(val));
+            System.out.println();
+
+        }
+        // scu.close();
+    }
+
     private void rules() {
         System.out.println(
                 "-----------------------------------------Welcome to MyQuiz-----------------------------------------");
+        Scanner scr = new Scanner(System.in);
         System.out.println();
+        System.out.println("1. Admin Login");
+        System.out.println("2. Quick Start");
+        System.out.print("\nEnter Your Choice--> ");
+        int g = scr.nextInt();
+        if (g == 1) {
+            this.admin();
+        } else {
+            this.setter();
+        }
+        System.out.println();
+        // scr.close();
+        try {
+
+            new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().wait();
+        } catch (Exception e) {
+            // System.out.println(e);
+        }
+        System.out.println(
+                "-----------------------------------------Welcome to MyQuiz-----------------------------------------");
         System.out.println("@RULES:");
-        System.out.println("\t^_~ This MCQ contains 13 Question each of 1 marks.");
+        System.out.println("\t^_~ This MCQ contains " + questions.size() + " Question each of 1 marks.");
         System.out.println("\t^_~ Some Coding Question are also included.");
         System.out.println(
                 "\t^_~ Type only option no. in your Answer. (Ex- If A is correct option for Ques1 Type A and Hit ENTER)");
@@ -231,13 +296,14 @@ public class MyQuiz extends Thread {
         System.out.println(
                 "-----------------------------------------  :) ALL THE BEST (: -----------------------------------------");
 
+        Scanner sc = new Scanner(System.in);
         System.out.println();
         System.out.print("Are you Sure to START? (Y/N): ");
-        Scanner sc = new Scanner(System.in);
+        // sc.nextLine();
         String decigion = sc.next();
         // sc.close();
         if (decigion.equalsIgnoreCase("Y") || decigion.equalsIgnoreCase("Yes")) {
-            this.setter();
+            // this.setter();
             System.out.println();
             System.out.println();
             timer();
@@ -248,7 +314,7 @@ public class MyQuiz extends Thread {
         } else {
             System.exit(0);
         }
-        sc.close();
+        // sc.close();
 
     }
 

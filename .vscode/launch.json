@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MainPlayer",
+            "request": "launch",
+            "mainClass": "MyQuizzer.MainPlayer",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainPlayer",
+            "request": "launch",
+            "mainClass": "MainPlayer",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch MyQuiz",
             "request": "launch",
             "mainClass": "MyQuiz",

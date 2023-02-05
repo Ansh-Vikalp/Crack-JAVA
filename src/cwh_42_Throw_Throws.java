@@ -35,6 +35,7 @@ public class cwh_42_Throw_Throws {
     }
 
     public static void main(String[] args) {
+        long start = System.currentTimeMillis();
         try {
             System.out.println("Division= " + divide(2, 0));
         } catch (ArithmeticException w) {
@@ -52,5 +53,8 @@ public class cwh_42_Throw_Throws {
             System.out.println("<Inside Main>");
             e.printStackTrace();
         }
+
+        long end = System.currentTimeMillis();
+        System.out.println("Excution Time: " + (end - start) + " millisecond");
     }
 }

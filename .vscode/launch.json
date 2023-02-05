@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_42_Throw_Throws",
+            "request": "launch",
+            "mainClass": "cwh_42_Throw_Throws",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_42_Throw$Throws",
+            "request": "launch",
+            "mainClass": "cwh_42_Throw$Throws",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_41_ExceptionClass",
+            "request": "launch",
+            "mainClass": "cwh_41_ExceptionClass",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch MainPlayer",
             "request": "launch",
             "mainClass": "MyQuizzer.MainPlayer",

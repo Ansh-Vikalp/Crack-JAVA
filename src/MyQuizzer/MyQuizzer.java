@@ -42,7 +42,7 @@ class MyQuizzer {
         questions.add("Which of these statements is incorrect about Thread?");
         questions.add("Which of these keywords are used for the block to be examined for exceptions?");
         questions.add("Who is the creator of this Quiz?");
-        // ArrayList<ArrayList<String>> options = new ArrayList<ArrayList<String>>();
+
         options.add(0, new ArrayList<>(
                 Arrays.asList("Guido van Rossum", "James Gosling", "Dennis Ritchie", "Bjarne Stroustrup")));
         options.add(1, new ArrayList<>(Arrays.asList("Java is a sequence-dependent programming language",

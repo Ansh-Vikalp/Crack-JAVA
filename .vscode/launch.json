@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_44_Errors",
+            "request": "launch",
+            "mainClass": "cwh_44_Errors",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_43_Finally",
+            "request": "launch",
+            "mainClass": "cwh_43_Finally",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_42_Throw_Throws",
             "request": "launch",
             "mainClass": "cwh_42_Throw_Throws",

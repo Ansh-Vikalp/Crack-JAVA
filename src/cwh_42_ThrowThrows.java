@@ -5,7 +5,7 @@ class NegativeDimensionException extends Exception {
     }
 }
 
-public class cwh_42_Throw_Throws {
+public class cwh_42_ThrowThrows {
 
     // ! Implicit exception Meathod
     public static int divide(int a, int b) throws ArithmeticException {

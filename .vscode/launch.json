@@ -6,6 +6,202 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch World",
+            "request": "launch",
+            "mainClass": "AccessModifiersCwh_25.Modifiers3.World",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_51_VectorDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_51_VectorDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListDemo",
+            "request": "launch",
+            "mainClass": "LinkedListDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_49_ArrayListDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_49_ArrayListDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_50_LinkedListDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_50_LinkedListDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.ArrayListDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch DemoLL",
+            "request": "launch",
+            "mainClass": "DemoLL",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlist$DemoLL",
+            "request": "launch",
+            "mainClass": "Linkedlist$DemoLL",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlist$DemoLinkedList",
+            "request": "launch",
+            "mainClass": "Linkedlist$DemoLinkedList",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlist$LinkedListDemo",
+            "request": "launch",
+            "mainClass": "Linkedlist$LinkedListDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_45_ObjectClass",
+            "request": "launch",
+            "mainClass": "cwh_45_ObjectClass",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch kkl",
+            "request": "launch",
+            "mainClass": "kkl",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch gh",
+            "request": "launch",
+            "mainClass": "gh",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ideone",
+            "request": "launch",
+            "mainClass": "Ideone",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch uuu",
+            "request": "launch",
+            "mainClass": "uuu",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Yuodh",
+            "request": "launch",
+            "mainClass": "Yuodh",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListdemo",
+            "request": "launch",
+            "mainClass": "ArrayListdemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericMeathods",
+            "request": "launch",
+            "mainClass": "GenericMeathods",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Generics",
+            "request": "launch",
+            "mainClass": "Generics",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch NonGenerics",
+            "request": "launch",
+            "mainClass": "NonGenerics",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyQueue",
+            "request": "launch",
+            "mainClass": "MyQueue",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyStack",
+            "request": "launch",
+            "mainClass": "MyStack",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlist$routh",
+            "request": "launch",
+            "mainClass": "Linkedlist$routh",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetOfBoxes",
+            "request": "launch",
+            "mainClass": "SetOfBoxes",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch routh",
+            "request": "launch",
+            "mainClass": "routh",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise5",
+            "request": "launch",
+            "mainClass": "Exercise5",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch kal",
+            "request": "launch",
+            "mainClass": "kal",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice13",
+            "request": "launch",
+            "mainClass": "Practice13",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_42_ThrowThrows",
             "request": "launch",
             "mainClass": "cwh_42_ThrowThrows",

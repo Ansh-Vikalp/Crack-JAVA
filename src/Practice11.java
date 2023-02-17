@@ -1,8 +1,8 @@
 import java.util.Scanner;//Build in Package
 
+import AccessModifiers.Modifiers.cwh_25_AccessModifiers;
 import Calculators.*;
 import Country.State.District.Patna;
-import Cwh_25_AccessModifiers.Modifiers.cwh_25_AccessModifiers;
 
 public class Practice11 extends cwh_25_AccessModifiers {
 

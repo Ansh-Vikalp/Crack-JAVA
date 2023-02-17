@@ -38,8 +38,8 @@ public class cwh_44_Errors {
          */
         // StackOverflowError
 
-        cwh_44_Errors err = new cwh_44_Errors();
-        System.out.println(err.factorial(8));
+        // cwh_44_Errors err = new cwh_44_Errors();
+        // System.out.println(err.factorial(8));
 
         Runtime r = Runtime.getRuntime();
         double mb = 1000000;

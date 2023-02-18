@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_53_ArrayDeque",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_53_ArrayDeque",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_52_StackDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_52_StackDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch World",
             "request": "launch",
             "mainClass": "AccessModifiersCwh_25.Modifiers3.World",

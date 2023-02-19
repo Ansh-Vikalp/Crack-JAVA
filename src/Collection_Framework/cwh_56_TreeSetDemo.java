@@ -99,12 +99,12 @@ public class cwh_56_TreeSetDemo implements Comparator<Student> {
         System.out.println();
 
         // * Retrives & Removes the Lowest Element from this set
-        System.out.println("-------------First--------------- ");
+        System.out.println("-------------Poll First--------------- ");
         treeSet.pollFirst().getData();
         System.out.println();
 
         // * Retrives & Removes the Highest Element from this set
-        System.out.println("-------------Last--------------- ");
+        System.out.println("-------------Poll Last--------------- ");
         treeSet.pollLast().getData();
         System.out.println();
 

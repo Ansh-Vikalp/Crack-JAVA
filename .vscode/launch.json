@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_59_TreeMapDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_59_TreeMapDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_58_LinkedHashMapDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_58_LinkedHashMapDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_57_HashMapDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_57_HashMapDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_56_TreeSetDemo",
             "request": "launch",
             "mainClass": "Collection_Framework.cwh_56_TreeSetDemo",

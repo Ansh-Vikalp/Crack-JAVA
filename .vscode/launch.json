@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_56_TreeSetDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_56_TreeSetDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_55_LinkedHashSetDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_55_LinkedHashSetDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_54_HashSetDemo",
+            "request": "launch",
+            "mainClass": "Collection_Framework.cwh_54_HashSetDemo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch PPo",
+            "request": "launch",
+            "mainClass": "PPo",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_53_ArrayDeque",
             "request": "launch",
             "mainClass": "Collection_Framework.cwh_53_ArrayDeque",

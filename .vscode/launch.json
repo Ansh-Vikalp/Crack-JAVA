@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_62_CalenderClass",
+            "request": "launch",
+            "mainClass": "Date_Time.cwh_62_CalenderClass",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_61_DateClass",
+            "request": "launch",
+            "mainClass": "Date_Time.cwh_61_DateClass",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_60_DATE_TIME",
+            "request": "launch",
+            "mainClass": "Date_Time.cwh_60_DATE_TIME",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_59_TreeMapDemo",
             "request": "launch",
             "mainClass": "Collection_Framework.cwh_59_TreeMapDemo",

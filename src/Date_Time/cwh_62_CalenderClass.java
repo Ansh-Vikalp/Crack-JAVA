@@ -22,6 +22,7 @@ public class cwh_62_CalenderClass {
          */
 
         Calendar c = Calendar.getInstance();
+        System.out.println(c.getTime());
         System.out.println(c.getCalendarType());
         System.out.println(c.getTimeZone());
         System.out.println(c.getTimeZone().getID());
@@ -29,6 +30,13 @@ public class cwh_62_CalenderClass {
         System.out.println("DAY_OF_WEEK: " + c.get(Calendar.DAY_OF_WEEK));
         System.out.println("Date: " + c.get(Calendar.DATE));
         System.out.println("Position of date in year: " + c.get(Calendar.DAY_OF_YEAR));
+        System.out.println("Time passed since 1970: " + c.getTimeInMillis());
+        System.out.println();
+        System.out.println("Current Time= " + c.get(Calendar.HOUR) + " : " + c.get(Calendar.MINUTE) + " : "
+                + c.get(Calendar.SECOND));
+        // setting different Time
+        c.set(2013, 5, 5);
+        System.out.println(c.getTime());
         System.out.println();
         System.out.println();
 

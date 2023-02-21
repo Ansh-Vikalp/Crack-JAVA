@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_64_timePackage",
+            "request": "launch",
+            "mainClass": "Date_Time.cwh_64_timePackage",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_63_GregorianCalender",
+            "request": "launch",
+            "mainClass": "Date_Time.cwh_63_GregorianCalender",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_62_CalenderClass",
             "request": "launch",
             "mainClass": "Date_Time.cwh_62_CalenderClass",

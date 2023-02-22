@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_65_Demo1",
+            "request": "launch",
+            "mainClass": "Documentation.cwh_65_Demo1",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice14",
+            "request": "launch",
+            "mainClass": "Practice14",
+            "projectName": "Crack-JAVA_b5ff1b25"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_64_timePackage",
             "request": "launch",
             "mainClass": "Date_Time.cwh_64_timePackage",

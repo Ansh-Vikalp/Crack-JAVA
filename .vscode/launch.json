@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_66_Demo2",
+            "request": "launch",
+            "mainClass": "Documentation.cwh_66_Demo2",
+            "projectName": "Crack-JAVA_b6d2dc86"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_65_Demo1",
             "request": "launch",
             "mainClass": "Documentation.cwh_65_Demo1",

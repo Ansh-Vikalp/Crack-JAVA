@@ -21,11 +21,13 @@ package Documentation;
 
 /**
  * A Simple Class
- * This class is simply made by me as a demontration purpose of use of JAVA
+ * This class is simply made by HACKER as a demontration purpose of use of
+ * JAVA
  * Documentation and is really very helfull when we want to share our project
  * with others as HTML pages rather than going to source code line-by-line.
  * <p>
- * Most <I><b>Users</b></I> are not intrested to visit our actual code and read
+ * Most <I><b>Users</b></I> are not intrested to visit our actual code and
+ * read
  * each comment to understand functionality of <I>Class/Constructors/static
  * Feilds/Meathod</I> and and other member.
  * 

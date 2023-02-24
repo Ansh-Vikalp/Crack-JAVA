@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_69_LambdaExpressions",
+            "request": "launch",
+            "mainClass": "cwh_69_LambdaExpressions",
+            "projectName": "Crack-JAVA_b6d2dc86"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_68_AnonymousTesting",
+            "request": "launch",
+            "mainClass": "cwh_68_AnonymousTesting",
+            "projectName": "Crack-JAVA_b6d2dc86"
+        },
+        {
+            "type": "java",
+            "name": "Launch cwh_67_Annotations",
+            "request": "launch",
+            "mainClass": "Documentation.cwh_67_Annotations",
+            "projectName": "Crack-JAVA_b6d2dc86"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_66_Demo2",
             "request": "launch",
             "mainClass": "Documentation.cwh_66_Demo2",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch cwh_70_FileHandling",
+            "request": "launch",
+            "mainClass": "File_Handling.cwh_70_FileHandling",
+            "projectName": "Crack-JAVA_b6d2dc86"
+        },
+        {
+            "type": "java",
             "name": "Launch cwh_69_LambdaExpressions",
             "request": "launch",
             "mainClass": "cwh_69_LambdaExpressions",

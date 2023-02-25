@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"File_Handling","c":"cwh_70_FileHandling","l":"cwh_70_FileHandling()","u":"%3Cinit%3E()"},{"p":"File_Handling","c":"cwh_70_FileHandling","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"File_Handling","c":"Timer","l":"settimer()"}];updateSearchResults();

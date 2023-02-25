@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"File_Handling","l":"cwh_70_FileHandling"},{"p":"File_Handling","l":"Timer"}];updateSearchResults();

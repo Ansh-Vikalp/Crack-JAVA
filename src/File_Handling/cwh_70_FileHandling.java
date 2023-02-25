@@ -5,13 +5,19 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * An Timer interface
+ */
 @FunctionalInterface
+/**
+ * abstract timer()
+ */
 interface Timer {
     public void settimer();
 }
 
 /**
- * <h4>File Handling</h4>
+ * <b>File Handling</b>
  * It is an important aspect of any programming.It is necessary step as to
  * hold/store our computational data inside a file system so, that it can remain
  * permanent.
@@ -24,7 +30,7 @@ interface Timer {
  * File in Java can be created by using object of file class. THis can evn
  * throws a IO Exception
  * Choices:-
- * <ul type="bullet">
+ * <ul>
  * <li>Handel the Exception in main meathod by surrounding it with Try-
  * catch(){}</li>
  * <li>Declare the main meathod itself to throws an IO Exception</li>
@@ -33,7 +39,7 @@ interface Timer {
  * @author Ansh-Vikalp
  * @since 25/2/2023
  * @version 1.0
- * @see also <a href="https://www.w3schools.com/java/java_files.asp"> W3 School
+ * @see <a href="https://www.w3schools.com/java/java_files.asp"> W3 School
  *      </a>
  */
 public class cwh_70_FileHandling {
@@ -50,7 +56,7 @@ public class cwh_70_FileHandling {
      * @throws Exception - only if an uncaught internal exception occurs; just
      *                   retained for historical compatibility
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
         // ? Creating a File
 
